@@ -15,6 +15,10 @@ Season 1. 백준 문제 풀기
 |:-----:| --------------------------------------- |:---------------:|--------------------------|--------------------------|
 | 01. | Python coding | 2022. 04.19 ~ 2022.04.25  | 입출력, 계산|https://www.acmicpc.net/step/1|
 | 02. | Python coding  | 2022. 04.19 ~ 2022.04.25   |  조건문  | https://www.acmicpc.net/step/4|
+| 03. | Python coding | 2022. 04.26 ~ 2022.05.03  | 그리디 |이것이 코딩 테스트다 Chapter02|
+| 04. | Python coding  | 2022. 04.26 2022.05.03  |그리디  | https://programmers.co.kr/learn/courses/30/parts/12244|
+| 05. | Python coding 추가  | 2022. 04.26 2022.05.03  |그리디 개념정리, 프로그래머스 그리디 문제, 백준 단계별 배열문제| https://www.acmicpc.net/step/6|
+
 
 
  
