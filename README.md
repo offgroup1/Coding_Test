@@ -20,6 +20,7 @@
 | 05. | Python coding 추가  | 2022. 04.26 2022.05.03  |그리디 개념정리, 프로그래머스 그리디 문제, 백준 단계별 배열문제| https://www.acmicpc.net/step/6|
 | 06. | Python coding  | 2022. 05.02 ~ 2022.05.09  |배열  |이것이 코딩 테스트다 Chapter06|
 | 07. | Python coding 추가  | 2022. 05.02 ~ 2022.05.09  |K번째 수| https://programmers.co.kr/learn/courses/30/lessons/42748|
+| 08. | Python coding  | 2022. 05.09 ~ 2022.05.17  |가장 큰 수| https://programmers.co.kr/learn/courses/30/lessons/42748|
 
 
  
