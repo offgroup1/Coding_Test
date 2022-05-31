@@ -60,4 +60,3 @@ def binary_search(array, target, start, end):
 
 
 print(binary_search(height, m, 0, max(height)))
-출처: https://ddu0422.tistory.com/90 [History:티스토리]
